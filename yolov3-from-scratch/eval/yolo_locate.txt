@@ -1,0 +1,2 @@
+total_distance = 560544
+total_img = 9785
